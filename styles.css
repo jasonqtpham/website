@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: lightblue;
+    background: darkgoldenrod;
     font-family: 'Croissant One', cursive;
 }
 
@@ -29,6 +29,6 @@ main {
 }
 
 #shyguy {
-    width: 150px;
+    width: 200px;
     vertical-align: middle;
 }
